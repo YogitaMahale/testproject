@@ -15,6 +15,7 @@ using testproject.Data;
 
 namespace testproject
 {
+    //test
     public class Startup
     {
         public Startup(IConfiguration configuration)
